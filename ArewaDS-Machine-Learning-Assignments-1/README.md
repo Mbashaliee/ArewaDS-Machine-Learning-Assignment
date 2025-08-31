@@ -1,4 +1,4 @@
-# ArewaDS Academy - Machine Learning Assignments
+# Arewa Data Science Academy - ML Felowship Assignment
 
 Welcome to my repository for the Machine Learning track at **ArewaDS Academy**. This repo contains my weekly assignments, notes, and mini-projects as I progress through the course.
 
@@ -25,5 +25,3 @@ The repository is organized as follows:
 - `week2/` - **NumPy for Data Manipulation**
 - `week3/` - **Pandas**
 - `week4/` - **Data Visualization**
-
-Each folder contains assignment notebooks, practice exercises, and related resources for the topic of the week.
